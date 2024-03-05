@@ -7,7 +7,7 @@ export default function App() {
       <Text style={styles.title}>
         Open up App.js to start working on your device!
       </Text>
-      <Text>This is a preview build</Text>
+      <Text>This is a preview build for branch 5.</Text>
       <StatusBar style="auto" />
     </View>
   );
