@@ -5,9 +5,14 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text style={styles.title}>
+        {/*
+         * Let's fix typo.
+         * We need development build installed on the device.
+         * We will use GitHub Actions from a PR to preview changes
+         * in th development build.
+         */}
         Open up App.js to start working on your device!
       </Text>
-      <Text>This is a preview build</Text>
       <StatusBar style="auto" />
     </View>
   );
