@@ -5,7 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text style={styles.title}>
-        Open up App.js to start working on your device!
+        Oepn up App.js to start working on your device!
       </Text>
       <Text>This is a preview build</Text>
       <StatusBar style="auto" />
