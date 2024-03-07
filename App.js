@@ -6,14 +6,11 @@ export default function App() {
     <View style={styles.container}>
       <Text style={styles.title}>
         {/*
-         * Let's fix typo.
+         * Let's a fix typo and use Expo Orbit to install the update.
          * We need development build installed on the device.
-         * We will use GitHub Actions on the "main" branch to push changes and preview them
-         * in a development build.
          */}
         Open up App.js to start working on your device!
       </Text>
-      <Text>This is a preview build</Text>
       <StatusBar style="auto" />
     </View>
   );
