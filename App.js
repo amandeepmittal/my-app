@@ -5,10 +5,6 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text style={styles.title}>
-        {/*
-         * Let's a fix typo and use Expo Orbit to install the update.
-         * We need development build installed on the device.
-         */}
         Open up App.js to start working on your device!
       </Text>
       <StatusBar style="auto" />
